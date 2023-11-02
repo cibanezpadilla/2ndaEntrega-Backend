@@ -22,6 +22,10 @@ h2{
     text-align: center;
 }
 
+#catalogue_title{
+    margin-bottom: 3.5rem;
+}
+
 h3{
     /* padding-top: 2rem; */
     text-transform: uppercase;
